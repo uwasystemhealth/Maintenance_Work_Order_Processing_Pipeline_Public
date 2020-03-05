@@ -1,5 +1,9 @@
 # Maintenance_Work_Order_Processing_Pipeline_Public
+
 A repository for the maintenance work order processing pipeline (PUBLIC)
+
+IMPORTANT!
+THIS REPOSITORY REPRESENTS A MOMENT IN TIME (FEB 2020) AND WILL NOT BE CHANGED. Additional work has been planned for this pipeline and will be published at a later date.
 
 The NLP pipeline takes raw maintenance work orders, and tags then according to their symptom/state, maintenance activity and maintenance item. These three stages are downstream dependant and must be run in the correct order. The correct order of execution is shown in the src/run.py file.
 
